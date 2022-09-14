@@ -1,3 +1,2 @@
-Im going to finally add some text here
-Yay
-trying to push
+This is text that is exclusive to my first version folder.
+For now at least...
